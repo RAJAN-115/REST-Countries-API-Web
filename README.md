@@ -117,7 +117,7 @@ This project is licensed under the ISC License.
 
 ##REST Countries API Web Application | React, CSS, JavaScript
 (https://github.com/RAJAN-115/REST-Countries-API-Web)
-Engineered a modern web application using React and REST Countries API, delivering comprehensive country information with real-time data updates and maintaining 100% uptime for over 10,000+ users .
-Implemented advanced search functionality and region-based filtering, reducing information retrieval time by 70% and enhancing user search accuracy to 95% .
-Designed a responsive layout with dark/light theme support, achieving 98% cross-device compatibility and boosting user engagement by 40% through improved accessibility.
-Simplified code structure and optimized performance, achieving 60% reduced complexity and 45% faster page load times .
+-Engineered a modern web application using React and REST Countries API, delivering comprehensive country information with real-time data updates and maintaining 100% uptime for over 10,000+ users .
+-Implemented advanced search functionality and region-based filtering, reducing information retrieval time by 70% and enhancing user search accuracy to 95% .
+-Designed a responsive layout with dark/light theme support, achieving 98% cross-device compatibility and boosting user engagement by 40% through improved accessibility.
+-Simplified code structure and optimized performance, achieving 60% reduced complexity and 45% faster page load times .
