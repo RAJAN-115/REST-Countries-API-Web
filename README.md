@@ -21,8 +21,8 @@ https://rest-countries-apiweb.netlify.app/
 1. Clone the repository:
 
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/RAJAN-115/REST-Countries-API-Web
+cd https://github.com/RAJAN-115/REST-Countries-API-Web
 ```
 
 2. Install dependencies:
